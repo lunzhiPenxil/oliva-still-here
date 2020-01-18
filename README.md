@@ -21,4 +21,4 @@ Dice！版本：Dice made in java by SitaNya Versions is:5.49.78.78Beta
 如果骰娘出现问题请联系群聊：828786809，  
 或者官方群聊：162279609。  
 
-多米诺TRPG私骰分享站地址：[小青果酱 - 塔系骰娘|TRPG私骰分享站](https://dicer.club/?p=1222)
+多米诺TRPG私骰分享站地址：|[小青果酱 - TRPG私骰分享站](https://dicer.club/?p=1222)
