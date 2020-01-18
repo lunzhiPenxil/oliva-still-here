@@ -1,6 +1,7 @@
 # 小青果酱  
 
-![Oliva 小青果酱](https://raw.githubusercontent.com/lunzhiPenxil/oliva-still-here/master/image/oliva.jpg)
+<center><img src="https://raw.githubusercontent.com/lunzhiPenxil/oliva-still-here/master/image/oliva.jpg" alt="Oliva 小青果酱"></center> 
 
-<center><b>小青果酱：3613527865<br />
+<center><b><br />
+小青果酱：3613527865<br />
 Master：仑质 137334701</b></center> 
