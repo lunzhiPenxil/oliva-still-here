@@ -21,8 +21,8 @@ Dice！版本：Dice made in java by SitaNya Versions is:5.49.78.78Beta
 如果骰娘出现问题请联系群聊：828786809，  
 或者官方群聊：162279609。  
 
-:-:|:-:
+|:-:|:-:|    
 |多米诺TRPG私骰分享站地址|[小青果酱 - TRPG私骰分享站](https://dicer.club/?p=1222)|  
 |Json2Yaml-For-Dice|[Json2Yaml for Dice By BenzenPenxil](http://benzenpenxil.xyz/json2yaml-for-dice/)|  
 |塔系核心|[Dice Made In Java By SinaNya](https://sinanya.com/#/)|  
-|Dice!|[Dice! By Kokona](https://kokona.tech/)|  
+|Dice!|[Dice! By Kokona](https://kokona.tech/)|   
