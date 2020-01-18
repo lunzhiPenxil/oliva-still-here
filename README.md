@@ -7,7 +7,7 @@ Master：仑质 137334701</b></center>
 
 好友验证：无  
 加群验证：无  
-Dice！版本：Dice made in java by SitaNya Versions is:4.31.52.61Beta  
+Dice！版本：Dice made in java by SitaNya Versions is:5.49.78.78Beta  
 是否24小时在线：是  
 拉黑操作：禁言、被踢出群聊以及刷屏  
 功能：  
