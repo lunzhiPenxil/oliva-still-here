@@ -22,7 +22,7 @@ Master：仑质 137334701
 【骰主博客】 http://benzencloudhk.xyz/    
 【服务器状态监控】 http://status.benzencloudhk.xyz/    
 
-**使用协议 - 小青果酱改进版服务协议1.0版**  
+**使用协议 - 小青果酱改进版服务协议1.1版**  
 0.本协议是小青果酱所使用的改进版服务协议1.1版，修改源自Shiki(The Star、Death、Judgement、The World)的服务协议。如果你看到了这句话，意味着Master应用该协议，请注意。    
 1.邀请骰娘、使用掷骰服务和在群内阅读此协议视为同意并承诺遵守此协议，否则请使用.dismiss移出骰娘。    
 2.不允许禁言、移出骰娘或刷屏掷骰等对骰娘的不友善行为，这些行为将会提高骰娘被制裁的风险。开关骰娘响应请使用.bot on/off。    
@@ -36,7 +36,7 @@ Master：仑质 137334701
 10.本协议内容随时有可能改动。请注意帮助信息、签名、空间、官方群等处的骰娘动态。    
 11.骰娘提供掷骰服务是完全免费的，欢迎投食。    
 12.本服务最终解释权归服务提供方所有。    
-13.除此之外，本骰娘还签署了《泛用性骰娘隐私及公平性声明》，详情请见：https://www.aobacore.com/?page_id=566    
+13.除此之外，本骰娘还签署了《泛用性骰娘隐私及公平性声明》，详情请见：[https://www.aobacore.com/?page_id=566](https://www.aobacore.com/?page_id=566)    
 
 |多米诺TRPG私骰分享站地址|[小青果酱 - TRPG私骰分享站](https://dicer.club/?p=1222)|  
 |Json2Yaml-For-Dice|[Json2Yaml for Dice By BenzenPenxil](http://benzenpenxil.xyz/json2yaml-for-dice/)|  
