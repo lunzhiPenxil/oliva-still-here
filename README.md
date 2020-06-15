@@ -6,7 +6,7 @@
 Master：仑质 137334701
 </b></center> 
 
-【骰子核心】 Dice! 2.4.0beta.Oliva.1.0.0(561)   
+【骰子核心】 Dice! 2.4.0beta2.Oliva.1.1.2(562)   
 【骰子类型】公开型    
 【是否需申请】否    
 【加群验证】否    
@@ -19,8 +19,8 @@ Master：仑质 137334701
 【刷屏反制】警告、拉黑    
 【邀请人责任】无    
 【窥屏可能】有    
-【骰主博客】 http://benzencloudhk.xyz/    
-【服务器状态监控】 http://status.benzencloudhk.xyz/    
+【骰主博客】 [http://benzencloudhk.xyz/](http://benzencloudhk.xyz/)    
+【服务器状态监控】 [http://status.benzencloudhk.xyz/](http://status.benzencloudhk.xyz/)    
 
 **使用协议 - 小青果酱改进版服务协议1.1版**  
 0.本协议是小青果酱所使用的改进版服务协议1.1版，修改源自Shiki(The Star、Death、Judgement、The World)的服务协议。如果你看到了这句话，意味着Master应用该协议，请注意。    
@@ -39,9 +39,10 @@ Master：仑质 137334701
 13.除此之外，本骰娘还签署了《泛用性骰娘隐私及公平性声明》，详情请见：[https://www.aobacore.com/?page_id=566](https://www.aobacore.com/?page_id=566)    
 
 |多米诺TRPG私骰分享站地址|[小青果酱 - TRPG私骰分享站](https://dicer.club/?p=1222)|  
+|个人博客|[ReBorderland](http://benzencloudhk.xyz/)|  
 |Json2Yaml-For-Dice|[Json2Yaml for Dice By BenzenPenxil](http://benzenpenxil.xyz/json2yaml-for-dice/)|  
-|塔系核心|[Dice Made In Java By SinaNya](https://sinanya.com/#/)|  
 |Dice!|[Dice! By Kokona](https://kokona.tech/)|   
+|塔系核心|[Dice Made In Java By SinaNya](https://sinanya.com/#/)|  
 
 
 **外置指令与娱乐功能**  
