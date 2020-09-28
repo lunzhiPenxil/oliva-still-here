@@ -6,7 +6,7 @@
 Master：仑质 137334701
 </b></center> 
 
-【骰子核心】 Dice! 2.4.0.Oliva.1.2.5(564)   
+【骰子核心】 ![OlivaDice](http://benzencloudhk.xyz/index.php/diceversion/?user_id=3613527865)   
 【骰子类型】公开型    
 【是否需申请】否    
 【加群验证】否    
