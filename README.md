@@ -6,8 +6,8 @@
 Master：仑质 137334701
 </b></center> 
 
-【骰子核心】 ![OlivaDice](http://benzencloudhk.xyz/index.php/diceversion/?user_id=3613527865)   
-【在线状态】 ![OlivaDice](http://benzencloudhk.xyz/index.php/dicestatus/?user_id=3613527865&mode=2)    
+【骰子核心】![OlivaDice](http://benzencloudhk.xyz/index.php/dicestatus/?user_id=3613527865)   
+【在线状态】![OlivaDice](http://benzencloudhk.xyz/index.php/dicestatus/?user_id=3613527865&mode=2)    
 【骰子类型】公开型    
 【是否需申请】否    
 【加群验证】否    
