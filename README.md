@@ -3,7 +3,9 @@
 <center><img src="https://raw.githubusercontent.com/lunzhiPenxil/oliva-still-here/master/image/oliva.jpg" alt="Oliva 小青果酱" style="width: 40%;height: auto;"></center>
 <center><b>
 小青果酱：3613527865<br />
-Master：仑质 137334701
+Master：仑质 137334701<br />
+欢迎加入开发群: [青果铺] 661366095<br />
+或是官方骰娘[小青果酱]的用户群: [青果批发车间] 828786809
 </b></center> 
 
 【骰子核心】![OlivaDice](http://benzencloudhk.xyz/index.php/dicestatus/?user_id=3613527865)   
